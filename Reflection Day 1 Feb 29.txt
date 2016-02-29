@@ -1,0 +1,10 @@
+In today's lesson, I learned how to compute various and translate different types computer languages such as binary, time, hex, oct, decimal.  
+We learned the basic components of how to build a basic gaming computer 
+We learned about slack and GIT.  
+Understanding the concept of a remote repository
+how to git add 
+cd
+mkdir
+git commit
+git pull
+git push... in that order.
