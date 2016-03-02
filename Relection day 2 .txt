@@ -1,0 +1,8 @@
+March 1st 
+
+Today we learned the functionality of batch files
+	essentially, they allow us to make specific commands into the command line with out having to type anything into command line.  all you need to do is click the batch file.  the two batch files i made, allowed you to check your IPconfig.  And the other was to restart comuputer in 10 secs while warning the user.
+	
+We also learned about html edits thought a note pad++.  We initially made a personal website for ourselves and played around with it.  We were tought the main skeleton of a website.  Consisted of heading, body
+			I learned about columns, rows, fonts, css, add image, links, and organizing page.  tags and attributes as well.  
+			Then I changed the website and themed it around my parents restaurant, in which i hope to complete a website for them some day.  
