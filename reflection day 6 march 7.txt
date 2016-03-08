@@ -1,0 +1,5 @@
+reflection day 6 march 7
+
+Today we learned about for;each;while and do while loops.  I understand the overall function of a loop but still have trouble differentiating which I should use.  Today in my robot project, I implemented a loop that allowed my switch case (allowed for menu of primary functionality of robot) to repeat after its corresponding main fuction.  I had trouble with overrall syntax, but I found a way to avoid using static, which makes calling various variables from other classes much easier.
+
+I emplemented a loop within my fizzbuzz counter as well.  It took me a little bit to get the syntax perfect but i managed to thanks to google.  
