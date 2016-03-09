@@ -1,0 +1,3 @@
+march 9th
+
+Today we primarily worked on our dice game projects.  at 6pm we had most of our project complete.  We will continue to add minor features here and there.  I truely learned alot about working in groups on coding projects.  It was difficult because there are multiple ways to type code so my syntax would have differentiated from my partners, which made things confusing.  We luckly were about to get all of classes to work together and as a end result, we have DICEJACK!!!.
