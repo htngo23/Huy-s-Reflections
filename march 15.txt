@@ -1,0 +1,3 @@
+March 15
+
+Today we primarily had work time on our roman numeral projects.  In which i did not have time to complete.  Later in the day we were introduced to visual studios, along with c#.  I have not had alot of success with c-sharp yet as I was trying to move the baseball stat app over but has been so far been unsuccessful.  I am thinking about moving my stuff over manually and type the entire code over again.  
