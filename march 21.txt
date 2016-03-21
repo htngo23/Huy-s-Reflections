@@ -1,0 +1,1 @@
+I had alot of issues with the 4th problem that dave gave us.  Overall the I could not get the order of the problem to be the way.  The biggest issue i have is index and the location of my variables
