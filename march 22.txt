@@ -1,0 +1,1 @@
+only worked on 2 problems today.  I started with the triangle making project because it seemed way more difficult.  And my theory was correct as it took me most of the day to figure out.  The problem I truely struggled with was the syntax the for the 2-D for loops.  It was difficult to wrap my mind around the concept but after trial and error, i finally got it.  
