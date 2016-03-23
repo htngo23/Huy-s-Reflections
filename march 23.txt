@@ -1,0 +1,7 @@
+Today I worked on trying to get the backwards triangle to print.  I approached the situation wrongly, as I found out i need 3 for loops total.  and the middle loops prints blank spaces only.  Was very frustrated as I found this out after a few hours.  
+
+In the 3rd problem with the finnabache numbers, I struggled with this as well because the online solutions did not nessarily use a user input.  So this made my solution a bit tougher.  
+
+In the construction problem, I struggled with the concepts of construction and deconstructors because we did not neccessarily know what they were.  I only accomplished the first half of it...
+
+I began to plan out my lemonade game because I think this is where my biggest flaw was.  Once I begin coding without a plan, my code becomes too messy and is harder to get certain functions to work with one another...

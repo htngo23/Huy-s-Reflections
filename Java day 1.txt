@@ -1,0 +1,3 @@
+variable is way for us to store data. ex... our name
+int (integer)- "age" is the corresponding variable
+name variables well
