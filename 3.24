@@ -1,0 +1,4 @@
+As of 6:05pm on 3/24/16.  I just finished my money system for my player gucci mane.  I tested it for my "buyPaperCup" method and need to continue implementing it to my other "buy" classes.  
+
+Today I recieved the approval to start my lemonade stand project.  I primarily worked today on my inventory and items(lemons, ice, sugar, paper cups).  Having my code be organized helped me avoid many red line and errors.  I did encounter a infinite recursion in the beginning which forced me to create a "items" class that is different from inventory.  
+
